@@ -24,7 +24,7 @@ class init_server_log_class:
 
         print("   ")
 
-        print("PyChakra Version [0.3.0] - Release [Stable] .")
+        print("PyChakra Version [0.1.0] - Release [Stable] .")
         print("Licensed in GNU Public License 3 ( GPL 3 ) .")
         print("Developed and Published by [PyChakra Team] .")
         print("Website : [https://pychakra.github.io] .")
